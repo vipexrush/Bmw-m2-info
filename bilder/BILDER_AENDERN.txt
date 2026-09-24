@@ -1,0 +1,22 @@
+BILDER ÄNDERN
+==============
+
+Die Website enthält bereits Bilder. Du kannst sie sehr einfach austauschen.
+
+1. Öffne index.html oder details.html.
+2. Suche nach "BILD ÄNDERN".
+3. Ändere beim <img>-Tag einfach den Wert hinter src="...".
+
+BEISPIEL MIT EINEM EIGENEN BILD:
+<img src="bilder/mein-m2.jpg" alt="Mein BMW M2">
+
+Wenn du ein eigenes Bild benutzt, lege es in diesen Ordner:
+BMW_M2_Website_2/bilder/
+
+Dann kannst du z.B. verwenden:
+<img src="bilder/mein-m2.jpg" alt="BMW M2">
+
+Hinweis zur aktuellen Website:
+- Das schwarze M2-CS-Foto kommt von BMWBLOG.
+- Das zweite M2-CS-G87-Foto kommt von Wikimedia Commons und steht laut Dateiseite unter CC BY-SA 4.0.
+- Für eine öffentliche Website solltest du die jeweiligen Bildrechte/Lizenzen beachten.
